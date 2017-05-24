@@ -4,10 +4,10 @@
     <title>Your awesome title</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://wildflame.me/jekyll-simple/</link>
-    <atom:link href="http://wildflame.me/jekyll-simple/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 23 May 2017 09:36:00 +0700</pubDate>
-    <lastBuildDate>Tue, 23 May 2017 09:36:00 +0700</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 24 May 2017 14:24:34 +0700</pubDate>
+    <lastBuildDate>Wed, 24 May 2017 14:24:34 +0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -80,7 +80,7 @@
 
 &lt;h3 id=&quot;image&quot;&gt;Image:&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/jekyll-simple/assets/img/image.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/image.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;table&quot;&gt;Table:&lt;/h3&gt;
 
@@ -126,8 +126,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 03 Jul 2016 00:00:00 +0700</pubDate>
-        <link>http://wildflame.me/jekyll-simple/jekyll/2016/07/03/styles-for-simple.html</link>
-        <guid isPermaLink="true">http://wildflame.me/jekyll-simple/jekyll/2016/07/03/styles-for-simple.html</guid>
+        <link>/jekyll/2016/07/03/styles-for-simple.html</link>
+        <guid isPermaLink="true">/jekyll/2016/07/03/styles-for-simple.html</guid>
         
         
         <category>jekyll</category>
@@ -168,8 +168,8 @@
 
 </description>
         <pubDate>Sun, 19 Jun 2016 20:06:26 +0700</pubDate>
-        <link>http://wildflame.me/jekyll-simple/jekyll/2016/06/19/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://wildflame.me/jekyll-simple/jekyll/2016/06/19/welcome-to-jekyll.html</guid>
+        <link>/jekyll/2016/06/19/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">/jekyll/2016/06/19/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
