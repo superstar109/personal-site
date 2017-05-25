@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is a simple Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/).  Plus, you can find a lot of themes at [jekyllthemes.org](http://jekyllthemes.org/)
+Từng học tại Đại học Nguyễn Tất Thành, chuyên ngành Thiết kế đồ họa. Tới năm 2 nghĩ học ngang để về làm việc cho Seedcom với vai trò là UX/UI Designer, sau đó  làm UX Designer cho Silicon Straits Saigon.
+Hiện tại đang là Product Manager tại Moout.com, một công ty Outsourcing - tư vấn và gia công các giải pháp phần mềm.
+Và cũng đang vận hành một platform dành cho artist. Mục đích để đem kiến thức vào áp dụng thực tiễn.
+Thích tìm hiểu về thiết kế, công nghệ và kinh doanh, 
 
-You can find the source code for this theme at: <data data-icon="ei-sc-github"></data>  [jekyll-simple](https://github.com/wild-flame/jekyll-simple)
-
-You can find the source code for Jekyll at <data data-icon="ei-sc-github"></data>  [jekyll](https://github.com/jekyll/jekyll)
