@@ -25,6 +25,12 @@ $grey-color:       #828282;
 $grey-color-light: #b1b1b1;
 $grey-color-dark:  darken($grey-color, 25%);
 
+
+$color-main-background: #fafafa;
+$color-body-text:#4A4A4A;
+$color-title-text: #454545;
+$color-border:rgba(0,0,0,0.1);
+
 // Width of the content area
 $content-width:    800px;
 
@@ -67,3 +73,42 @@ $on-laptop:        780px;
         "color",
         "syntax-highlighting"
 ;
+
+//  Post
+.post{
+  border-radius: 4px;
+  padding:1.5rem;
+  border:1px solid rgba(0,0, 0, 0.1);
+  background: #fff;
+  margin-bottom: 1rem;
+  // Post title
+  #{&}__title{
+    h3{
+      margin:0px;
+      font-size:28px;
+      font-weight: 700;
+      line-height: 1.2;
+      margin-bottom: 15px;
+      a, a:hover, a:focus{
+        text-decoration: none;
+        color:#454545;
+      }
+    }
+    .meta{
+      color:#999999;
+      font-size:12px;
+  
+      .cate{
+        text-transform: uppercase;
+        font-weight: 600;
+      }
+    }
+  }
+  // Post description
+  #{&}__description{
+    p{
+      margin: 0px;
+      color:$color-body-text;
+    }
+  }
+}

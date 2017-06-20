@@ -914,7 +914,8 @@ body {
   box-sizing: border-box;
   height: auto;
   padding-bottom: 140px;
-  /*等于或略大于footer的高度*/ }
+  /*等于或略大于footer的高度*/
+  background-color: #fafafa; }
 
 .site-footer {
   position: absolute;
@@ -1502,3 +1503,28 @@ green     #859900  operators, other keywords
     color: #268bd2; }
   .highlight .il {
     color: #2aa198; }
+
+.post {
+  border-radius: 4px;
+  padding: 1.5rem;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  background: #fff;
+  margin-bottom: 1rem; }
+  .post .post__title h3 {
+    margin: 0px;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-bottom: 15px; }
+    .post .post__title h3 a, .post .post__title h3 a:hover, .post .post__title h3 a:focus {
+      text-decoration: none;
+      color: #454545; }
+  .post .post__title .meta {
+    color: #999999;
+    font-size: 12px; }
+    .post .post__title .meta .cate {
+      text-transform: uppercase;
+      font-weight: 600; }
+  .post .post__description p {
+    margin: 0px;
+    color: #4A4A4A; }
