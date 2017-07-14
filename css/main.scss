@@ -71,7 +71,8 @@ $on-laptop:        780px;
         "base",
         "layout",
         "color",
-        "syntax-highlighting"
+        "syntax-highlighting",
+        "bootstrap-grid"
 ;
 
 //  Post
@@ -109,6 +110,80 @@ $on-laptop:        780px;
     p{
       margin: 0px;
       color:$color-body-text;
+    }
+  }
+}
+
+.title-tag{
+  display: block;
+  font-weight: 600;
+  font-size:24px;
+  line-height: 28px;
+  text-transform: uppercase;
+  margin-bottom: $spacing-unit;
+  color:$grey-color;
+}
+.hero-title{
+  font-size:$base-font-size*1.75;
+  color:$text-color;
+  line-height: $base-line-height;
+  font-weight: 300;
+}
+.text-large{
+  font-size:$base-font-size*1.125;
+  line-height: 1.5;
+}
+.text-bold{
+  font-weight: $font-weight-bold;
+  color:$text-color;
+}
+
+//// Section text
+.section-text{
+  .section-title{
+    color:$color-title-text;
+  }
+  p{
+    font-size:$base-font-size;
+    line-height: 1.75;
+    color:$grey-color-dark;
+    margin-top: $spacing-unit / 2;
+    margin-bottom: $spacing-unit;
+  }
+}
+
+
+//// Timeline component
+.timeline{
+  padding:0;
+  margin:0;
+  list-style: none;
+  #{&}__mark{
+    display: table;
+    width: 100%;
+    padding-bottom: $spacing-unit/2;
+    .time,.job{
+      display: table-cell;
+      vertical-align: top;
+      text-align: left;
+    }
+    .time{
+      width: 20%;
+    }
+    .job{
+      width: 80%;
+      span{
+        display: block;
+      }
+      .job__title{
+        font-weight: $font-weight-bold;
+      }
+      .job__corp{
+        color:$grey-color;
+      }
+      .job__des{
+        color:$color-body-text;
+      }
     }
   }
 }
