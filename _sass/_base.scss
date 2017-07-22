@@ -472,3 +472,12 @@ blockquote {
   font-size:3rem;
   letter-spacing: -2px;
 }
+
+// Common use
+.list-flex-wrap{
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
