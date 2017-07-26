@@ -5,12 +5,29 @@ title: Home
 
 <div class="home">
   <div class="introduction">
-      Sinh ra, lớn lên và làm việc tại Sài Gòn, đam mê tìm hiểu cái mới, thích tám chuyện và làm kinh doanh, phân tích thiết kế và nghiên cứu công nghệ mới. Hiện làm việc với vị trí Product Manager cho công ty Outsourcing. <br>
+      Là một Product Designer, làm việc tại thành phố Hồ Chí Minh.
+      Đam mê thiết kế, công nghệ và kinh doanh.
+       <br>
       [ <b>WEBSITE VẪN CÒN TRONG GIAI ĐOẠN PHÁT TRIỂN </b> ]
+  </div>
+  <h1 class="section-title">Công việc</h1>
+  <div class="works-list">
+      <div class="row list-flex-wrap">
+        {% for post in site.categories.work %}
+          <div class="work col-xs-6">
+            <div class="work-wrap" style="background-image: url('{{ post.thumbnail }}')">
+              <div class="overplay"></div>
+              <div class="work__title">
+                <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
   </div>
    <h1 class="section-title">Blogs</h1>
   <div class="posts-list">
-    {% for post in site.posts %}
+    {% for post in site.posts limit: 4 %}
       <div class="post">
         <div class="post__title">
           <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
