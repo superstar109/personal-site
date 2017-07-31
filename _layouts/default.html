@@ -13,8 +13,13 @@
             {{ content }}
           </div>
         </div>
-      </div>
+        <div class="clearfix"></div>
+      </div><!-- container -->
       {% include footer.html %} 
     </div>
   </body>
+{% capture scripts %}
+  {% include customizer.js %}
+{% endcapture %}
+<script type="text/javascript">{{ scripts | uglify | strip }}</script>
 </html>

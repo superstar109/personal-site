@@ -71,6 +71,7 @@ $on-laptop:        780px;
         "base",
         "layout",
         "color",
+        "nav",
         "syntax-highlighting",
         "bootstrap-grid"
 ;
@@ -84,6 +85,7 @@ $on-laptop:        780px;
   margin-bottom: 1rem;
   // Post title
   #{&}__title{
+    margin-top: $spacing-unit/2;
     h3{
       margin:0px;
       font-size:28px;
@@ -110,6 +112,17 @@ $on-laptop:        780px;
     p{
       margin: 0px;
       color:$color-body-text;
+    }
+  }
+  // Post thumb
+  #{&}__thumb{
+    height: 300px;
+    .thumbnail{
+      background-position: center center;
+      background-size: cover;
+      background-repeat: no-repeat;
+      height: 100%;
+      position: relative;
     }
   }
 }
@@ -193,6 +206,7 @@ $on-laptop:        780px;
   margin-bottom: 4rem;
   .work{
     min-height: 200px;
+    margin-bottom: $spacing-unit/2;
     .overplay{
       position: absolute;
       top:0;left:0;
@@ -235,5 +249,22 @@ $on-laptop:        780px;
         display: block;
       }
     }
+  }
+}
+
+// Scroll top
+.scroll-top{
+  float:left;
+  width:100%;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  position: relative;
+  margin-top: 15px;
+  a{
+    display: block;
+    padding: 15px 0;
+    border: 1px dashed #eee;
+    background-color:$background-color;
   }
 }

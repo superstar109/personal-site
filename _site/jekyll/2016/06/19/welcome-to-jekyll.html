@@ -51,18 +51,31 @@
           <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
         </svg>
     </label>
-    <input type="checkbox" id="menu-toggle">
+    <input type="checkbox" id="menu-toggle" onclick="openNav()">
 
-    <div class="site-nav">
+    <div class="site-nav hidden-xs">
       <nav>
         <ul class="page-link">
           <li><a href="/">Trang chủ</a></li>
+          <li><a href="/work">Công việc</a></li>
           <li><a href="/archive">Blog</a></li>
           <li><a href="/intro">Giới thiệu</a></li>
         </ul>
       </nav>
-    </div>
+    </div><!-- site-nav -->
+    <!-- Mobile nav -->
+     <div id="MobileNav" class="mobile-site-nav overlay">
+      <!-- Button to close the overlay navigation -->
+      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
 
+      <div class="overlay-content">
+          <a href="/">Trang chủ</a>
+          <a href="/work">Công việc</a>
+          <a href="/archive">Blog</a>
+          <a href="/intro">Giới thiệu</a>
+      </div>
+
+    </div><!-- mobile-site-nav -->
   </div>
 </header>
  
@@ -133,7 +146,8 @@
   <div class="authorinfo box">
     <p>About me | Quy Pham</p>
     <p class="bio">
-      A self-taught guy loves to solve problems, lives in Sai Gon. Currently works at <a href="http://moout.com" target="_blank">Moout.com</a> as a Product Executive.
+      Là một Digital Product Designer, say mê tìm hiểu cái mới và áp dụng vào thực tiễn. 
+      Ngoài thời gian dành cho dự án freelance , tôi còn đang vận hành một nền tảng mua và bán các sản phẩm handmade.
     </p>
   </div>
 </section>
@@ -148,8 +162,10 @@
 
           </div>
         </div>
-      </div>
-      <footer class="site-footer">
+        <div class="clearfix"></div>
+      </div><!-- container -->
+      
+<footer class="site-footer">
   <div class="container">
     <div class="footer left column one-half">
       <section class="small-font">
@@ -171,9 +187,41 @@
         
       </section>
     </div>
+    <div class="visible-xs scroll-top">
+    <a id="scroll-up"> <data data-icon="ei-chevron-up"></data>Trở lên trên</a>
+</div>
   </div>
 </footer>
  
     </div>
   </body>
+
+<script type="text/javascript">/* Open when someone clicks on the span element */
+    function openNav() {
+        document.getElementById("MobileNav").style.height = "100%";
+    }
+
+    /* Close when someone clicks on the "x" symbol inside the overlay */
+    function closeNav() {
+        document.getElementById("MobileNav").style.height = "0%";
+    }
+
+function runScroll() {
+  scrollTo(document.body, 0, 600);
+}
+var scrollme;
+scrollme = document.querySelector("#scroll-up");
+scrollme.addEventListener("click",runScroll,false)
+
+function scrollTo(element, to, duration) {
+  if (duration <= 0) return;
+  var difference = to - element.scrollTop;
+  var perTick = difference / duration * 10;
+
+  setTimeout(function() {
+    element.scrollTop = element.scrollTop + perTick;
+    if (element.scrollTop == to) return;
+    scrollTo(element, to, duration - 10);
+  }, 10);
+}</script>
 </html>

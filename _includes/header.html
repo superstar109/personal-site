@@ -12,18 +12,31 @@
           <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
         </svg>
     </label>
-    <input type="checkbox" id="menu-toggle">
+    <input type="checkbox" id="menu-toggle" onclick="openNav()">
 
-    <div class="site-nav">
+    <div class="site-nav hidden-xs">
       <nav>
         <ul class="page-link">
           <li><a href="{{ "/" | prepend: site.baseurl }}">Trang chủ</a></li>
+          <li><a href="{{ "/work" | prepend: site.baseurl }}">Công việc</a></li>
           <li><a href="{{ "/archive" | prepend: site.baseurl }}">Blog</a></li>
           <li><a href="{{ "/intro" | prepend: site.baseurl }}">Giới thiệu</a></li>
         </ul>
       </nav>
-    </div>
+    </div><!-- site-nav -->
+    <!-- Mobile nav -->
+     <div id="MobileNav" class="mobile-site-nav overlay">
+      <!-- Button to close the overlay navigation -->
+      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
 
+      <div class="overlay-content">
+          <a href="{{ "/" | prepend: site.baseurl }}">Trang chủ</a>
+          <a href="{{ "/work" | prepend: site.baseurl }}">Công việc</a>
+          <a href="{{ "/archive" | prepend: site.baseurl }}">Blog</a>
+          <a href="{{ "/intro" | prepend: site.baseurl }}">Giới thiệu</a>
+      </div>
+
+    </div><!-- mobile-site-nav -->
   </div>
 </header>
  
