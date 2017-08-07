@@ -1,0 +1,74 @@
+---
+layout: post
+title:  "Seedcom"
+date: 2016-08-04 21:06:03
+thumbnail: "/assets/img/posts/seedcom/thumb.jpg"
+categories: work
+description: OSS là một hệ thống hỗ trợ doanh nghiệp, đặc biệt là cho các công ty, chuỗi vận hàng bán lẻ (retail). OSS là một sản phẩm do Seedcom phát triển để hỗ trợ các công ty partner như Giaohangnhanh, Junu, Cầu Đất Farm, P4P, ...  
+---
+OSS là một hệ thống hỗ trợ doanh nghiệp, đặc biệt là cho các công ty, chuỗi vận hàng bán lẻ (retail). OSS là một sản phẩm do Seedcom phát triển để hỗ trợ các công ty partner như: Giaohangnhanh, Junu, Cầu Đất Farm, P4P, ...  
+Bao gồm tích hợp các tính năng chính: 
+<!--description-->
+1. Enterprise social networking ( bao gồm các tính năng bảng tin cho nhân viên, gửi mail, quản lý danh bạ cá nhân, các phiếu phê duyệt )
+2. Quản lý mối quan hệ khách hàng (CRM)
+3. Chăm sóc khác hàng
+4. Báo cáo
+5. Quản lý nhân sự, tính lương thưởng cho nhân viên.
+
+
+
+
+##  Giao tiếp nội bộ - ESN
+
+### Bảng tin
+
+Là tính năng cho phép người dùng đăng một bài viết hay hình ảnh với mục đích thông báo hay trao đổi với các nhân viên nội bộ trong công ty hoặc các sự kiện trong công ty. Bao gồm: bài viết, thư tới, sự kiện, thông báo, các phiếu phê duyệt
+
+![Newsfeed](/assets/img/posts/seedcom/Newsfeed-1.png)
+
+### Email
+
+Là hệ thống trao đổi email nội bộ chỉ dành cho nhân viên trên hệ thống OSS, với các chức năng cơ bản như Gmail. 
+
+![Email](/assets/img/posts/seedcom/Email-1.png)
+![Email](/assets/img/posts/seedcom/Email-2.png)
+![Email](/assets/img/posts/seedcom/Email-3.png)
+
+### Danh bạ
+
+Chức năng quản lý danh sách các nhóm email được tạo bởi hệ thống, cá nhân người dùng. Mục đích để sử dụng cho tính năng email.
+
+![Contact](/assets/img/posts/seedcom/contact.png)
+
+### Hồ sơ nhân viên
+
+Mỗi nhân viên trong hệ thống đều có 1 trang hồ sơ riêng . Với 3 chế độ xem là: Dành cho đồng nghiệp, dành cho người quản lý, và cá nhân. Mỗi chế độ xem sẽ hạn chế thông tin hiển thị.
+
+![User-Profile](/assets/img/posts/seedcom/User-profile-1.png)
+![User-Profile](/assets/img/posts/seedcom/User-profile-2.png)
+![User-Profile](/assets/img/posts/seedcom/User-profile-3.png)
+![User-Profile](/assets/img/posts/seedcom/User-profile-4.png)
+
+### Phiếu phê duyệt
+
+Chức năng này mục đích thay thế cho các văn bản vận hành nội bộ như phiếu đề xuất mua hàng, xin nghỉ phép, tạm ứng, ...  
+Phòng ban và nhân viên có quyền hạn sẽ định nghĩa các loại mẫu phiếu với tùy mục đích sử dụng, bao gồm các loại field dữ liệu khác nhau, và các vòng xét duyệt phiếu.  
+Nhân viên khi có nhu cầu sẽ lên tạo phiếu mới theo các mẫu đã có sẳn. Và trong quá trình hoạt động của phiếu, sẽ được thông báo các thay đổi, hoạt động qua hệ thống thông báo và email nội bộ.  
+
+![eform](/assets/img/posts/seedcom/eform.png)
+
+## 2. Point Of Sale
+
+Point Of Sale, chức năng bán hàng dành cho các cửa hàng  hệ thống. Module này kết nối với Hồ sơ khách hàng trong hệ thống CRM để hỗ trợ thông tin cho đội ngũ bán hàng , mang lại một trải nghiệm mua hàng ở các Touch Point.
+
+![pos](/assets/img/posts/seedcom/POS-1.png)
+
+## 3. Tìm kiếm
+
+Tìm kiếm thông tin trong 3 nhóm tính năng: bản tin, nhân viên, đơn hàng. 
+
+![search](/assets/img/posts/seedcom/search.png)
+
+## UI Components
+
+![search](/assets/img/posts/seedcom/ui-components.png)

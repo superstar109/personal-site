@@ -2,298 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quy Pham</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <description>Quý Phạm - Digital Product Designer, sinh sống và làm việc tại thành phố Hồ Chí Minh, Việt Nam.
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 31 Jul 2017 13:23:57 +0700</pubDate>
-    <lastBuildDate>Mon, 31 Jul 2017 13:23:57 +0700</lastBuildDate>
+    <pubDate>Mon, 07 Aug 2017 15:25:40 +0700</pubDate>
+    <lastBuildDate>Mon, 07 Aug 2017 15:25:40 +0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>Styles at a glance</title>
-        <description>&lt;p&gt;Simple is a beautiful but functional jekyll theme. The font-type setting looks really good when writers use CJK mixed with English.&lt;/p&gt;
-
-&lt;p&gt;First of all, let’s have a glance at the basic styles: &lt;a href=&quot;http://github.com/wild-flame/jekyll-simple&quot;&gt;link&lt;/a&gt;, &lt;strong&gt;strong&lt;/strong&gt;, &lt;em&gt;italic&lt;/em&gt;, &lt;del&gt;deletion&lt;/del&gt;, &lt;ins&gt;insertion&lt;/ins&gt;.&lt;/p&gt;
-
-&lt;!--description--&gt;
-
-&lt;h3 id=&quot;headers&quot;&gt;Headers:&lt;/h3&gt;
-
-&lt;h1 id=&quot;header-1&quot;&gt;Header 1&lt;/h1&gt;
-
-&lt;h2 id=&quot;header-2&quot;&gt;Header 2&lt;/h2&gt;
-
-&lt;h3 id=&quot;header-3&quot;&gt;Header 3&lt;/h3&gt;
-
-&lt;h4 id=&quot;header-4&quot;&gt;Header 4&lt;/h4&gt;
-
-&lt;h5 id=&quot;header-5&quot;&gt;Header 5&lt;/h5&gt;
-
-&lt;h6 id=&quot;header-6&quot;&gt;Header 6&lt;/h6&gt;
-
-&lt;h3 id=&quot;lists&quot;&gt;Lists:&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;list item 1&lt;/li&gt;
-  &lt;li&gt;list item 2&lt;/li&gt;
-  &lt;li&gt;list item 3&lt;/li&gt;
-&lt;/ul&gt;
-
+        <title>Seedcom</title>
+        <description>&lt;p&gt;OSS là một hệ thống hỗ trợ doanh nghiệp, đặc biệt là cho các công ty, chuỗi vận hàng bán lẻ (retail). OSS là một sản phẩm do Seedcom phát triển để hỗ trợ các công ty partner như: Giaohangnhanh, Junu, Cầu Đất Farm, P4P, …&lt;br /&gt;
+Bao gồm tích hợp các tính năng chính: 
+&lt;!--description--&gt;&lt;/p&gt;
 &lt;ol&gt;
-  &lt;li&gt;list item 1&lt;/li&gt;
-  &lt;li&gt;list item 2&lt;/li&gt;
-  &lt;li&gt;list item 3&lt;/li&gt;
+  &lt;li&gt;Enterprise social networking ( bao gồm các tính năng bảng tin cho nhân viên, gửi mail, quản lý danh bạ cá nhân, các phiếu phê duyệt )&lt;/li&gt;
+  &lt;li&gt;Quản lý mối quan hệ khách hàng (CRM)&lt;/li&gt;
+  &lt;li&gt;Chăm sóc khác hàng&lt;/li&gt;
+  &lt;li&gt;Báo cáo&lt;/li&gt;
+  &lt;li&gt;Quản lý nhân sự, tính lương thưởng cho nhân viên.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h3 id=&quot;blockquote&quot;&gt;Blockquote:&lt;/h3&gt;
+&lt;h2 id=&quot;giao-tip-ni-b---esn&quot;&gt;Giao tiếp nội bộ - ESN&lt;/h2&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h3 id=&quot;bng-tin&quot;&gt;Bảng tin&lt;/h3&gt;
 
-&lt;h3 id=&quot;basscsshttpwwwbasscsscom-colors&quot;&gt;&lt;a href=&quot;http://www.basscss.com/&quot;&gt;BASSCSS&lt;/a&gt; colors:&lt;/h3&gt;
+&lt;p&gt;Là tính năng cho phép người dùng đăng một bài viết hay hình ảnh với mục đích thông báo hay trao đổi với các nhân viên nội bộ trong công ty hoặc các sự kiện trong công ty. Bao gồm: bài viết, thư tới, sự kiện, thông báo, các phiếu phê duyệt&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;span class=&quot;black&quot;&gt;black&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;gray&quot;&gt;gray&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;silver&quot;&gt;silver&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;white&quot;&gt;white&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;aqua&quot;&gt;aqua&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;blue&quot;&gt;blue&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;navy&quot;&gt;navy&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;teal&quot;&gt;teal&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;green&quot;&gt;green&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;olive&quot;&gt;olive&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;lime&quot;&gt;lime&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;yellow&quot;&gt;yellow&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;orange&quot;&gt;orange&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;red&quot;&gt;red&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;fuchsia&quot;&gt;fuchsia&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;purple&quot;&gt;purple&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;maroon&quot;&gt;maroon&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/seedcom/Newsfeed-1.png&quot; alt=&quot;Newsfeed&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;horizontal-rule&quot;&gt;Horizontal rule:&lt;/h3&gt;
+&lt;h3 id=&quot;email&quot;&gt;Email&lt;/h3&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;Là hệ thống trao đổi email nội bộ chỉ dành cho nhân viên trên hệ thống OSS, với các chức năng cơ bản như Gmail.&lt;/p&gt;
 
-&lt;h3 id=&quot;image&quot;&gt;Image:&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/seedcom/Email-1.png&quot; alt=&quot;Email&quot; /&gt;
+&lt;img src=&quot;/assets/img/posts/seedcom/Email-2.png&quot; alt=&quot;Email&quot; /&gt;
+&lt;img src=&quot;/assets/img/posts/seedcom/Email-3.png&quot; alt=&quot;Email&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/image.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;danh-b&quot;&gt;Danh bạ&lt;/h3&gt;
 
-&lt;h3 id=&quot;table&quot;&gt;Table:&lt;/h3&gt;
+&lt;p&gt;Chức năng quản lý danh sách các nhóm email được tạo bởi hệ thống, cá nhân người dùng. Mục đích để sử dụng cho tính năng email.&lt;/p&gt;
 
-&lt;table&gt;
-	&lt;thead&gt;
-		&lt;tr&gt;
-			&lt;th&gt;Name&lt;/th&gt;
-			&lt;th&gt;Age&lt;/th&gt;
-			&lt;th&gt;Fruit&lt;/th&gt;
-		&lt;/tr&gt;
-	&lt;/thead&gt;
-	&lt;tbody&gt;
-		&lt;tr&gt;
-			&lt;td&gt;Alex&lt;/td&gt;
-			&lt;td&gt;22&lt;/td&gt;
-			&lt;td&gt;Apple&lt;/td&gt;
-		&lt;/tr&gt;
-		&lt;tr&gt;
-			&lt;td&gt;Bran&lt;/td&gt;
-			&lt;td&gt;20&lt;/td&gt;
-			&lt;td&gt;Orange&lt;/td&gt;
-		&lt;/tr&gt;
-		&lt;tr&gt;
-			&lt;td&gt;Mike&lt;/td&gt;
-			&lt;td&gt;21&lt;/td&gt;
-			&lt;td&gt;Waltermelon&lt;/td&gt;
-		&lt;/tr&gt;
-	&lt;/tbody&gt;
-&lt;/table&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/seedcom/contact.png&quot; alt=&quot;Contact&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;code-snippet&quot;&gt;Code snippet&lt;/h3&gt;
+&lt;h3 id=&quot;h-s-nhn-vin&quot;&gt;Hồ sơ nhân viên&lt;/h3&gt;
 
-&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;// index.js&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;arr&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;];&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;b&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;arr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;map&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;p&gt;Mỗi nhân viên trong hệ thống đều có 1 trang hồ sơ riêng . Với 3 chế độ xem là: Dành cho đồng nghiệp, dành cho người quản lý, và cá nhân. Mỗi chế độ xem sẽ hạn chế thông tin hiển thị.&lt;/p&gt;
 
-&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;foo&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(){&lt;/span&gt;
-	&lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'foo'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/seedcom/User-profile-1.png&quot; alt=&quot;User-Profile&quot; /&gt;
+&lt;img src=&quot;/assets/img/posts/seedcom/User-profile-2.png&quot; alt=&quot;User-Profile&quot; /&gt;
+&lt;img src=&quot;/assets/img/posts/seedcom/User-profile-3.png&quot; alt=&quot;User-Profile&quot; /&gt;
+&lt;img src=&quot;/assets/img/posts/seedcom/User-profile-4.png&quot; alt=&quot;User-Profile&quot; /&gt;&lt;/p&gt;
 
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+&lt;h3 id=&quot;phiu-ph-duyt&quot;&gt;Phiếu phê duyệt&lt;/h3&gt;
+
+&lt;p&gt;Chức năng này mục đích thay thế cho các văn bản vận hành nội bộ như phiếu đề xuất mua hàng, xin nghỉ phép, tạm ứng, …&lt;br /&gt;
+Phòng ban và nhân viên có quyền hạn sẽ định nghĩa các loại mẫu phiếu với tùy mục đích sử dụng, bao gồm các loại field dữ liệu khác nhau, và các vòng xét duyệt phiếu.&lt;br /&gt;
+Nhân viên khi có nhu cầu sẽ lên tạo phiếu mới theo các mẫu đã có sẳn. Và trong quá trình hoạt động của phiếu, sẽ được thông báo các thay đổi, hoạt động qua hệ thống thông báo và email nội bộ.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/seedcom/eform.png&quot; alt=&quot;eform&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;point-of-sale&quot;&gt;2. Point Of Sale&lt;/h2&gt;
+
+&lt;p&gt;Point Of Sale, chức năng bán hàng dành cho các cửa hàng  hệ thống. Module này kết nối với Hồ sơ khách hàng trong hệ thống CRM để hỗ trợ thông tin cho đội ngũ bán hàng , mang lại một trải nghiệm mua hàng ở các Touch Point.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/seedcom/POS-1.png&quot; alt=&quot;pos&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;tm-kim&quot;&gt;3. Tìm kiếm&lt;/h2&gt;
+
+&lt;p&gt;Tìm kiếm thông tin trong 3 nhóm tính năng: bản tin, nhân viên, đơn hàng.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/seedcom/search.png&quot; alt=&quot;search&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;ui-components&quot;&gt;UI Components&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/seedcom/ui-components.png&quot; alt=&quot;search&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 03 Jul 2016 00:00:00 +0700</pubDate>
-        <link>/jekyll/2016/07/03/styles-for-simple.html</link>
-        <guid isPermaLink="true">/jekyll/2016/07/03/styles-for-simple.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-      </item>
-    
-      <item>
-        <title>Test jekyll</title>
-        <description>&lt;p&gt;Simple is a beautiful but functional jekyll theme. The font-type setting looks really good when writers use CJK mixed with English.&lt;/p&gt;
-
-&lt;p&gt;First of all, let’s have a glance at the basic styles: &lt;a href=&quot;http://github.com/wild-flame/jekyll-simple&quot;&gt;link&lt;/a&gt;, &lt;strong&gt;strong&lt;/strong&gt;, &lt;em&gt;italic&lt;/em&gt;, &lt;del&gt;deletion&lt;/del&gt;, &lt;ins&gt;insertion&lt;/ins&gt;.&lt;/p&gt;
-
-&lt;!--description--&gt;
-
-&lt;h3 id=&quot;headers&quot;&gt;Headers:&lt;/h3&gt;
-
-&lt;h1 id=&quot;header-1&quot;&gt;Header 1&lt;/h1&gt;
-
-&lt;h2 id=&quot;header-2&quot;&gt;Header 2&lt;/h2&gt;
-
-&lt;h3 id=&quot;header-3&quot;&gt;Header 3&lt;/h3&gt;
-
-&lt;h4 id=&quot;header-4&quot;&gt;Header 4&lt;/h4&gt;
-
-&lt;h5 id=&quot;header-5&quot;&gt;Header 5&lt;/h5&gt;
-
-&lt;h6 id=&quot;header-6&quot;&gt;Header 6&lt;/h6&gt;
-
-&lt;h3 id=&quot;lists&quot;&gt;Lists:&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;list item 1&lt;/li&gt;
-  &lt;li&gt;list item 2&lt;/li&gt;
-  &lt;li&gt;list item 3&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;list item 1&lt;/li&gt;
-  &lt;li&gt;list item 2&lt;/li&gt;
-  &lt;li&gt;list item 3&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;blockquote&quot;&gt;Blockquote:&lt;/h3&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;basscsshttpwwwbasscsscom-colors&quot;&gt;&lt;a href=&quot;http://www.basscss.com/&quot;&gt;BASSCSS&lt;/a&gt; colors:&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;span class=&quot;black&quot;&gt;black&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;gray&quot;&gt;gray&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;silver&quot;&gt;silver&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;white&quot;&gt;white&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;aqua&quot;&gt;aqua&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;blue&quot;&gt;blue&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;navy&quot;&gt;navy&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;teal&quot;&gt;teal&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;green&quot;&gt;green&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;olive&quot;&gt;olive&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;lime&quot;&gt;lime&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;yellow&quot;&gt;yellow&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;orange&quot;&gt;orange&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;red&quot;&gt;red&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;fuchsia&quot;&gt;fuchsia&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;purple&quot;&gt;purple&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;span class=&quot;maroon&quot;&gt;maroon&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;horizontal-rule&quot;&gt;Horizontal rule:&lt;/h3&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;image&quot;&gt;Image:&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/image.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;table&quot;&gt;Table:&lt;/h3&gt;
-
-&lt;table&gt;
-	&lt;thead&gt;
-		&lt;tr&gt;
-			&lt;th&gt;Name&lt;/th&gt;
-			&lt;th&gt;Age&lt;/th&gt;
-			&lt;th&gt;Fruit&lt;/th&gt;
-		&lt;/tr&gt;
-	&lt;/thead&gt;
-	&lt;tbody&gt;
-		&lt;tr&gt;
-			&lt;td&gt;Alex&lt;/td&gt;
-			&lt;td&gt;22&lt;/td&gt;
-			&lt;td&gt;Apple&lt;/td&gt;
-		&lt;/tr&gt;
-		&lt;tr&gt;
-			&lt;td&gt;Bran&lt;/td&gt;
-			&lt;td&gt;20&lt;/td&gt;
-			&lt;td&gt;Orange&lt;/td&gt;
-		&lt;/tr&gt;
-		&lt;tr&gt;
-			&lt;td&gt;Mike&lt;/td&gt;
-			&lt;td&gt;21&lt;/td&gt;
-			&lt;td&gt;Waltermelon&lt;/td&gt;
-		&lt;/tr&gt;
-	&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;code-snippet&quot;&gt;Code snippet&lt;/h3&gt;
-
-&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;// index.js&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;arr&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;];&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;b&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;arr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;map&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-
-&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;foo&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(){&lt;/span&gt;
-	&lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'foo'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sun, 03 Jul 2016 00:00:00 +0700</pubDate>
-        <link>/test/2016/07/03/Test-jekyll.html</link>
-        <guid isPermaLink="true">/test/2016/07/03/Test-jekyll.html</guid>
-        
-        
-        <category>Test</category>
-        
-      </item>
-    
-      <item>
-        <title>Work post 2</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
-
-&lt;!--description--&gt;
-
-&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 25 Jun 2016 04:06:03 +0700</pubDate>
-        <link>/work/2016/06/25/work-2.html</link>
-        <guid isPermaLink="true">/work/2016/06/25/work-2.html</guid>
+        <pubDate>Fri, 05 Aug 2016 04:06:03 +0700</pubDate>
+        <link>/work/2016/08/05/seedcom.html</link>
+        <guid isPermaLink="true">/work/2016/08/05/seedcom.html</guid>
         
         
         <category>work</category>
@@ -301,41 +88,32 @@
       </item>
     
       <item>
-        <title>Work post 1</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>CellphoneS</title>
+        <description>&lt;p&gt;CellphoneS là hệ thống bán lẽ điện thoại, máy tính bảng và các phụ kiện điện thoại. 
+Cellphones.com.vn là Website thương mại điện tử giúp khách hàng có thể mua trực tuyến, tìm hiểu thông tin sản phẩm, chuỗi cửa hàng, chương trình khuyến mãi và các dịch vụ chăm sác khách hàng và sửa chữa khác của CellphoneS.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;Vai trò tôi trong dự án này là UX/UI Designer thiết kế lại giao diện website trên desktop cũng như mobile, bao gồm công việc làm việc với phòng Marketing để thiết kế wireframe và sau khi đã thống nhất sẽ tiến hành thiết kế UI.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;h1 id=&quot;phin-bn-c&quot;&gt;Phiên bản cũ&lt;/h1&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/cellphones/old-version-mockup.jpg&quot; alt=&quot;Giao diện cũ&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&quot;giao-din-mi-trn-desktop&quot;&gt;Giao diện mới trên Desktop&lt;/h1&gt;
 
-&lt;!--description--&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/cellphones/new-design-desktop-mockup.jpg&quot; alt=&quot;Giao mới trên Desktop&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+&lt;p&gt;Prototype: &lt;a href=&quot;https://marvelapp.com/353e08f&quot;&gt;Desktop&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;h1 id=&quot;trn-mobile&quot;&gt;Trên Mobile&lt;/h1&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/cellphones/new-design-mobile-mockup.jpg&quot; alt=&quot;Giao mới trên Mobile&quot; /&gt;&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Prototype: &lt;a href=&quot;https://marvelapp.com/58chjh7&quot;&gt;Mobile&lt;/a&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 20 Jun 2016 04:06:03 +0700</pubDate>
-        <link>/work/2016/06/20/work-1.html</link>
-        <guid isPermaLink="true">/work/2016/06/20/work-1.html</guid>
+        <pubDate>Fri, 05 Aug 2016 04:06:03 +0700</pubDate>
+        <link>/work/2016/08/05/cellphones.html</link>
+        <guid isPermaLink="true">/work/2016/08/05/cellphones.html</guid>
         
         
         <category>work</category>
@@ -343,44 +121,66 @@
       </item>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Adsbox</title>
+        <description>&lt;p&gt;Adsbox là một sản phẩm của Silicon Straits Saigon. Giúp quản lý nội dung trình chiếu trên các màn hình Tivi tại cửa hàng thuộc một chuỗi từ bất cứ nơi đâu.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;Sản phẩm giúp người dùng thiết lập kế hoạch, thời gian và tần suất hiển thị các video, hình ảnh trên từng màn hình TV tại cửa hàng bằng một thiết bị gắn vào mỗi màn hình.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Tôi tham gia dự án với vai trò là UX Designer và Frontend, mục đích nhằm cài thiện lại giao diện và luồng sử dụng cũ.&lt;/p&gt;
 
 &lt;!--description--&gt;
 
-&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+&lt;p&gt;Các tính năng chính trong sản phẩm&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;h1 id=&quot;dashboard&quot;&gt;Dashboard&lt;/h1&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;Hiển thị các danh sách các thiết bị đang online trên hệ thống, đang chạy Nhóm media nào, Tình trạng , Dung lượng chứa của thiết bị. Từ màn hình này Manager sẽ có một cái nhìn tổng quát về các media đang được chiếu  tại các chuỗi cửa hàng.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/adsbox/1.0 - Dashboard.jpg&quot; alt=&quot;Dashboard&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&quot;qun-l-media&quot;&gt;Quản lý media&lt;/h1&gt;
 
+&lt;p&gt;Media là các tập tin hình ảnh, video được tải lên với mục đích sử dụng cho Nhóm media.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/adsbox/2.0 - Media - Default.jpg&quot; alt=&quot;Dashboard&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;qun-l-package&quot;&gt;Quản lý Package&lt;/h1&gt;
+
+&lt;p&gt;Package là một chức năng tổng hợp các video, hình ảnh và nội dung để tạo ra một Video trình chiếu trên các thiết bị của hệ thống.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/adsbox/4.0 - Package Library.jpg&quot; alt=&quot;Dashboard&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/img/posts/adsbox/4.1 - Package Editor.jpg&quot; alt=&quot;Dashboard&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;nhm-media&quot;&gt;Nhóm media&lt;/h1&gt;
+
+&lt;p&gt;Tổng hợp các package với thời gian trình chiếu tùy chỉnh ( độ dài, tần suất , thứ tự ). Nhóm media có 2 dạng là: Chạy nền và Popup
+_ Chạy nền: là các package chạy theo thứ tự sắp xếp, lần lượt.
+_ Popup: là các package chạy theo tần suất thời gian, thứ tự ưu tiên hiển thị hơn các package chạy nền.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/adsbox/3.0 - List group.jpg&quot; alt=&quot;Dashboard&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;flash-ads&quot;&gt;Flash Ads&lt;/h1&gt;
+
+&lt;p&gt;Mục đích sử dụng để hiển thị các package có tần suât hiển thị duy nhất 1 lần trong ngày. Thường được sử dụng cho mục đích chúc mừng sinh nhật của khách hàng trong các nhà hàng.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/adsbox/5.0.1 - Flash Ads - .jpg&quot; alt=&quot;Dashboard&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;bo-co&quot;&gt;Báo cáo&lt;/h1&gt;
+
+&lt;p&gt;Báo cáo thống kế lần sử dụng cho các package&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/adsbox/7.0.1 - Report.jpg&quot; alt=&quot;Dashboard&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;prototype&quot;&gt;Prototype&lt;/h1&gt;
+
+&lt;p&gt;Xem chi tiết prototype tại đây: &lt;a href=&quot;https://marvelapp.com/3g5i6hb&quot;&gt;Adsbox Prototype&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 19 Jun 2016 20:06:26 +0700</pubDate>
-        <link>/jekyll/2016/06/19/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">/jekyll/2016/06/19/welcome-to-jekyll.html</guid>
+        <pubDate>Fri, 05 Aug 2016 04:06:03 +0700</pubDate>
+        <link>/work/2016/08/05/Adsbox.html</link>
+        <guid isPermaLink="true">/work/2016/08/05/Adsbox.html</guid>
         
         
-        <category>jekyll</category>
+        <category>work</category>
         
       </item>
     

@@ -1,0 +1,61 @@
+---
+layout: post
+title:  "Adsbox"
+date: 2016-08-04 21:06:03
+thumbnail: "/assets/img/posts/adsbox/thumb.jpg"
+categories: work
+description: Adsbox là một sản phẩm của Silicon Straits Saigon. Giúp quản lý nội dung trình chiếu trên các màn hình Tivi tại cửa hàng thuộc một chuỗi từ bất cứ nơi đâu.  
+---
+Adsbox là một sản phẩm của Silicon Straits Saigon. Giúp quản lý nội dung trình chiếu trên các màn hình Tivi tại cửa hàng thuộc một chuỗi từ bất cứ nơi đâu.  
+
+Sản phẩm giúp người dùng thiết lập kế hoạch, thời gian và tần suất hiển thị các video, hình ảnh trên từng màn hình TV tại cửa hàng bằng một thiết bị gắn vào mỗi màn hình.  
+
+Tôi tham gia dự án với vai trò là UX Designer và Frontend, mục đích nhằm cài thiện lại giao diện và luồng sử dụng cũ.  
+
+<!--description-->
+
+Các tính năng chính trong sản phẩm  
+
+# Dashboard
+
+Hiển thị các danh sách các thiết bị đang online trên hệ thống, đang chạy Nhóm media nào, Tình trạng , Dung lượng chứa của thiết bị. Từ màn hình này Manager sẽ có một cái nhìn tổng quát về các media đang được chiếu  tại các chuỗi cửa hàng.
+
+![Dashboard](/assets/img/posts/adsbox/1.0 - Dashboard.jpg)  
+
+# Quản lý media
+
+Media là các tập tin hình ảnh, video được tải lên với mục đích sử dụng cho Nhóm media.
+
+![Dashboard](/assets/img/posts/adsbox/2.0 - Media - Default.jpg)  
+
+# Quản lý Package
+
+Package là một chức năng tổng hợp các video, hình ảnh và nội dung để tạo ra một Video trình chiếu trên các thiết bị của hệ thống.
+
+![Dashboard](/assets/img/posts/adsbox/4.0 - Package Library.jpg)  
+![Dashboard](/assets/img/posts/adsbox/4.1 - Package Editor.jpg)
+
+# Nhóm media
+
+Tổng hợp các package với thời gian trình chiếu tùy chỉnh ( độ dài, tần suất , thứ tự ). Nhóm media có 2 dạng là: Chạy nền và Popup
+_ Chạy nền: là các package chạy theo thứ tự sắp xếp, lần lượt.
+_ Popup: là các package chạy theo tần suất thời gian, thứ tự ưu tiên hiển thị hơn các package chạy nền.
+
+![Dashboard](/assets/img/posts/adsbox/3.0 - List group.jpg)  
+
+
+# Flash Ads
+
+Mục đích sử dụng để hiển thị các package có tần suât hiển thị duy nhất 1 lần trong ngày. Thường được sử dụng cho mục đích chúc mừng sinh nhật của khách hàng trong các nhà hàng.
+
+![Dashboard](/assets/img/posts/adsbox/5.0.1 - Flash Ads - .jpg)  
+
+# Báo cáo
+
+Báo cáo thống kế lần sử dụng cho các package
+
+![Dashboard](/assets/img/posts/adsbox/7.0.1 - Report.jpg) 
+
+# Prototype
+
+Xem chi tiết prototype tại đây: [Adsbox Prototype](https://marvelapp.com/3g5i6hb)
