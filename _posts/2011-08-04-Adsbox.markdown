@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Adsbox"
-date: 2016-08-04 21:06:03
+date: 2017-08-04 21:06:03
 thumbnail: "/assets/img/posts/adsbox/thumb.jpg"
 categories: work
 description: Adsbox là một sản phẩm của Silicon Straits Saigon. Giúp quản lý nội dung trình chiếu trên các màn hình Tivi tại cửa hàng thuộc một chuỗi từ bất cứ nơi đâu.  

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Seedcom"
-date: 2016-08-04 21:06:03
+date: 2017-08-04 21:06:03
 thumbnail: "/assets/img/posts/seedcom/thumb.jpg"
 categories: work
 description: OSS là một hệ thống hỗ trợ doanh nghiệp, đặc biệt là cho các công ty, chuỗi vận hàng bán lẻ (retail). OSS là một sản phẩm do Seedcom phát triển để hỗ trợ các công ty partner như Giaohangnhanh, Junu, Cầu Đất Farm, P4P, ...  

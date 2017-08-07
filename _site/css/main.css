@@ -959,13 +959,13 @@ body {
   font-weight: 600; }
 
 .logo a, .logo a:hover, .logo a:active, .logo a:focus {
-  color: #111;
+  color: rgba(0, 0, 0, 0.75);
   text-decoration: none; }
 
 .nav {
   line-height: 1.5; }
   .nav .page-link {
-    color: #111;
+    color: rgba(0, 0, 0, 0.75);
     line-height: 1.0;
     display: block;
     padding: 5px 0px 0px 0px; }
@@ -1018,13 +1018,9 @@ input#menu-toggle {
   right: 5%; }
   @media screen and (max-width: 780px) {
     .nav .menu-icon {
-      top: 67px;
+      top: 13px;
       display: block;
-      text-align: center; } }
-  @media screen and (max-width: 780px) and (max-width: 400px) {
-    .nav .menu-icon {
-      top: 13px; } }
-  @media screen and (max-width: 780px) {
+      text-align: center; }
       .nav .menu-icon:hover > svg path {
         fill: #828282; }
       .nav .menu-icon > svg {
@@ -1305,13 +1301,13 @@ there.
   padding: 15px;
   text-decoration: none;
   font-size: 36px;
-  color: #111;
+  color: rgba(0, 0, 0, 0.75);
   display: block;
   transition: 0.4s;
   font-weight: 300; }
 
 .overlay a:hover, .overlay a:focus {
-  color: #1b1b1b;
+  color: rgba(10, 10, 10, 0.75);
   background-color: #fdfdfd; }
 
 .overlay .closebtn {
@@ -2452,7 +2448,7 @@ green     #859900  operators, other keywords
 
 .hero-title {
   font-size: 28px;
-  color: #111;
+  color: rgba(0, 0, 0, 0.75);
   line-height: 1.5;
   font-weight: 300; }
 
@@ -2462,7 +2458,7 @@ green     #859900  operators, other keywords
 
 .text-bold {
   font-weight: 600;
-  color: #111; }
+  color: rgba(0, 0, 0, 0.75); }
 
 .section-text .section-title {
   color: #454545; }
@@ -2549,3 +2545,32 @@ green     #859900  operators, other keywords
     padding: 15px 0;
     border: 1px dashed #eee;
     background-color: #fdfdfd; }
+
+.article_title {
+  font-size: 30px;
+  line-height: 36px;
+  margin-bottom: 40px;
+  font-weight: 500;
+  letter-spacing: -0.01em; }
+
+.article-content {
+  color: rgba(0, 0, 0, 0.75); }
+  .article-content p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 60px;
+    letter-spacing: -0.003em; }
+  .article-content h2 {
+    font-size: 24px;
+    font-weight: 500;
+    letter-spacing: -0.01em;
+    line-height: 28px;
+    margin-bottom: 28px; }
+  .article-content h3 {
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: -0.008em;
+    line-height: 24px;
+    margin-bottom: 24px; }
+  .article-content img {
+    margin: 10px auto; }
