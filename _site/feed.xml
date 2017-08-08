@@ -6,8 +6,8 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 08 Aug 2017 14:47:15 +0700</pubDate>
-    <lastBuildDate>Tue, 08 Aug 2017 14:47:15 +0700</lastBuildDate>
+    <pubDate>Tue, 08 Aug 2017 14:59:01 +0700</pubDate>
+    <lastBuildDate>Tue, 08 Aug 2017 14:59:01 +0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -117,70 +117,6 @@ Nhân viên khi có nhu cầu sẽ lên tạo phiếu mới theo các mẫu đã
         <pubDate>Sat, 05 Aug 2017 04:06:03 +0700</pubDate>
         <link>/work/2017/08/05/cellphones.html</link>
         <guid isPermaLink="true">/work/2017/08/05/cellphones.html</guid>
-        
-        
-        <category>work</category>
-        
-      </item>
-    
-      <item>
-        <title>Adsbox</title>
-        <description>&lt;p&gt;Adsbox là một sản phẩm của Silicon Straits Saigon. Giúp quản lý nội dung trình chiếu trên các màn hình Tivi tại cửa hàng thuộc một chuỗi từ bất cứ nơi đâu.&lt;/p&gt;
-
-&lt;p&gt;Sản phẩm giúp người dùng thiết lập kế hoạch, thời gian và tần suất hiển thị các video, hình ảnh trên từng màn hình TV tại cửa hàng bằng một thiết bị gắn vào mỗi màn hình.&lt;/p&gt;
-
-&lt;p&gt;Tôi tham gia dự án với vai trò là UX Designer và Frontend, mục đích nhằm cài thiện lại giao diện và luồng sử dụng cũ.&lt;/p&gt;
-
-&lt;!--description--&gt;
-
-&lt;p&gt;Các tính năng chính trong sản phẩm&lt;/p&gt;
-
-&lt;h1 id=&quot;dashboard&quot;&gt;Dashboard&lt;/h1&gt;
-
-&lt;p&gt;Hiển thị các danh sách các thiết bị đang online trên hệ thống, đang chạy Nhóm media nào, Tình trạng , Dung lượng chứa của thiết bị. Từ màn hình này Manager sẽ có một cái nhìn tổng quát về các media đang được chiếu  tại các chuỗi cửa hàng.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/adsbox/1.0 - Dashboard.jpg&quot; alt=&quot;Dashboard&quot; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;qun-l-media&quot;&gt;Quản lý media&lt;/h1&gt;
-
-&lt;p&gt;Media là các tập tin hình ảnh, video được tải lên với mục đích sử dụng cho Nhóm media.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/adsbox/2.0 - Media - Default.jpg&quot; alt=&quot;Dashboard&quot; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;qun-l-package&quot;&gt;Quản lý Package&lt;/h1&gt;
-
-&lt;p&gt;Package là một chức năng tổng hợp các video, hình ảnh và nội dung để tạo ra một Video trình chiếu trên các thiết bị của hệ thống.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/adsbox/4.0 - Package Library.jpg&quot; alt=&quot;Dashboard&quot; /&gt;&lt;br /&gt;
-&lt;img src=&quot;/assets/img/posts/adsbox/4.1 - Package Editor.jpg&quot; alt=&quot;Dashboard&quot; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;nhm-media&quot;&gt;Nhóm media&lt;/h1&gt;
-
-&lt;p&gt;Tổng hợp các package với thời gian trình chiếu tùy chỉnh ( độ dài, tần suất , thứ tự ). Nhóm media có 2 dạng là: Chạy nền và Popup
-_ Chạy nền: là các package chạy theo thứ tự sắp xếp, lần lượt.
-_ Popup: là các package chạy theo tần suất thời gian, thứ tự ưu tiên hiển thị hơn các package chạy nền.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/adsbox/3.0 - List group.jpg&quot; alt=&quot;Dashboard&quot; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;flash-ads&quot;&gt;Flash Ads&lt;/h1&gt;
-
-&lt;p&gt;Mục đích sử dụng để hiển thị các package có tần suât hiển thị duy nhất 1 lần trong ngày. Thường được sử dụng cho mục đích chúc mừng sinh nhật của khách hàng trong các nhà hàng.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/adsbox/5.0.1 - Flash Ads - .jpg&quot; alt=&quot;Dashboard&quot; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;bo-co&quot;&gt;Báo cáo&lt;/h1&gt;
-
-&lt;p&gt;Báo cáo thống kế lần sử dụng cho các package&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/adsbox/7.0.1 - Report.jpg&quot; alt=&quot;Dashboard&quot; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;prototype&quot;&gt;Prototype&lt;/h1&gt;
-
-&lt;p&gt;Xem chi tiết prototype tại đây: &lt;a href=&quot;https://marvelapp.com/3g5i6hb&quot;&gt;Adsbox Prototype&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 05 Aug 2017 04:06:03 +0700</pubDate>
-        <link>/work/2017/08/05/Adsbox.html</link>
-        <guid isPermaLink="true">/work/2017/08/05/Adsbox.html</guid>
         
         
         <category>work</category>
