@@ -1165,6 +1165,9 @@ there.
 /* Larger than tablet */
 /* Larger than desktop */
 /* Larger than Desktop HD */
+@media (min-width: 1200px) {
+  .page-content .container {
+    padding-top: 60px; } }
 /* Smaller than tablet */
 /* Smaller than tablet */
 /* ------------------------------------
@@ -2518,7 +2521,10 @@ green     #859900  operators, other keywords
       align-items: center;
       justify-content: center; }
     .works-list .work .work__title {
-      position: relative; }
+      position: relative;
+      text-align: center;
+      padding: 0 30px;
+      line-height: 1.4; }
       .works-list .work .work__title h3 {
         margin: 0px;
         padding: 0px; }

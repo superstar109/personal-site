@@ -15,6 +15,7 @@ body {
     height:auto;
     padding-bottom: 140px;/*等于或略大于footer的高度*/
     background-color: $color-main-background;
+
 }
 
 .site-footer {
@@ -380,7 +381,13 @@ there.
 @media (min-width: 1000px) {}
 
 /* Larger than Desktop HD */
-@media (min-width: 1200px) {}
+@media (min-width: 1200px) {
+  .page-content{
+    .container{
+      padding-top:60px;
+    }
+  }
+}
 
 /* Smaller than tablet */
 @media (max-width: 750px) {}
