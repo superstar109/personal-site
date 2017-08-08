@@ -2558,8 +2558,14 @@ green     #859900  operators, other keywords
   .article-content p {
     font-size: 16px;
     line-height: 1.6;
-    margin-bottom: 60px;
+    margin-bottom: 30px;
     letter-spacing: -0.003em; }
+  .article-content h1 {
+    font-size: 28px;
+    line-height: 1.2;
+    margin-bottom: 40px;
+    font-weight: 500;
+    letter-spacing: -0.01em; }
   .article-content h2 {
     font-size: 24px;
     font-weight: 500;
