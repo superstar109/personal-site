@@ -4,5 +4,6 @@ title: About
 permalink: /intro/
 ---
 
-Là một Digital Product Designer, say mê tìm hiểu cái mới và áp dụng vào thực tiễn. 
-Ngoài thời gian dành cho dự án freelance , tôi còn dành thời gian để phát triển 1 sản phẩm.
+
+A digital product designer, enthuse about learning new stuffs then apply into solving actual problems.
+Moreover, i'm also running a flatform product for buying and selling crafts, handmade stuffs.
