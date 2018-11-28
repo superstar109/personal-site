@@ -6,9 +6,54 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 25 Aug 2017 11:39:00 +0700</pubDate>
-    <lastBuildDate>Fri, 25 Aug 2017 11:39:00 +0700</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
+    <pubDate>Wed, 28 Nov 2018 14:42:54 +0700</pubDate>
+    <lastBuildDate>Wed, 28 Nov 2018 14:42:54 +0700</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Adsbox </title>
+        <description>&lt;p&gt;Adsbox là một sản phẩm của Silicon Straits Saigon. Giúp quản lý nội dung trình chiếu trên các màn hình Tivi tại cửa hàng thuộc một chuỗi từ bất cứ nơi đâu.&lt;/p&gt;
+
+&lt;p&gt;Sản phẩm giúp người dùng thiết lập kế hoạch, thời gian và tần suất hiển thị các video, hình ảnh trên từng màn hình TV tại cửa hàng bằng một thiết bị gắn vào mỗi màn hình.&lt;/p&gt;
+
+&lt;p&gt;Tôi tham gia dự án với vai trò là UX Designer và Frontend, mục đích nhằm cài thiện lại giao diện và luồng sử dụng cũ.&lt;/p&gt;
+
+&lt;!--description--&gt;
+
+&lt;p&gt;Các tính năng chính trong sản phẩm&lt;/p&gt;
+
+&lt;h1 id=&quot;quản-lý-media&quot;&gt;Quản lý media&lt;/h1&gt;
+
+&lt;p&gt;Media là các tập tin hình ảnh, video được tải lên với mục đích sử dụng cho Nhóm media.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/adsbox/2.0 - Media - Default.jpg&quot; alt=&quot;Dashboard&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;nhóm-media&quot;&gt;Nhóm media&lt;/h1&gt;
+
+&lt;p&gt;Tổng hợp các package với thời gian trình chiếu tùy chỉnh ( độ dài, tần suất , thứ tự ). Nhóm media có 2 dạng là: Chạy nền và Popup
+_ Chạy nền: là các package chạy theo thứ tự sắp xếp, lần lượt.
+_ Popup: là các package chạy theo tần suất thời gian, thứ tự ưu tiên hiển thị hơn các package chạy nền.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/adsbox/3.0 - List group.jpg&quot; alt=&quot;Dashboard&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;báo-cáo&quot;&gt;Báo cáo&lt;/h1&gt;
+
+&lt;p&gt;Báo cáo thống kế lần sử dụng cho các package&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/adsbox/7.0.1 - Report.jpg&quot; alt=&quot;Dashboard&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;prototype&quot;&gt;Prototype&lt;/h1&gt;
+
+&lt;p&gt;Xem chi tiết prototype tại đây: &lt;a href=&quot;https://marvelapp.com/3g5i6hb&quot;&gt;Adsbox Prototype&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 05 Sep 2017 04:06:03 +0700</pubDate>
+        <link>/work/2017/09/05/Adsbox.html</link>
+        <guid isPermaLink="true">/work/2017/09/05/Adsbox.html</guid>
+        
+        
+        <category>work</category>
+        
+      </item>
     
       <item>
         <title>Seedcom</title>
@@ -23,9 +68,9 @@ Bao gồm tích hợp các tính năng chính:
   &lt;li&gt;Quản lý nhân sự, tính lương thưởng cho nhân viên.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id=&quot;giao-tip-ni-b---esn&quot;&gt;Giao tiếp nội bộ - ESN&lt;/h2&gt;
+&lt;h2 id=&quot;giao-tiếp-nội-bộ---esn&quot;&gt;Giao tiếp nội bộ - ESN&lt;/h2&gt;
 
-&lt;h3 id=&quot;bng-tin&quot;&gt;Bảng tin&lt;/h3&gt;
+&lt;h3 id=&quot;bảng-tin&quot;&gt;Bảng tin&lt;/h3&gt;
 
 &lt;p&gt;Là tính năng cho phép người dùng đăng một bài viết hay hình ảnh với mục đích thông báo hay trao đổi với các nhân viên nội bộ trong công ty hoặc các sự kiện trong công ty. Bao gồm: bài viết, thư tới, sự kiện, thông báo, các phiếu phê duyệt&lt;/p&gt;
 
@@ -39,13 +84,13 @@ Bao gồm tích hợp các tính năng chính:
 &lt;img src=&quot;/assets/img/posts/seedcom/Email-2.png&quot; alt=&quot;Email&quot; /&gt;
 &lt;img src=&quot;/assets/img/posts/seedcom/Email-3.png&quot; alt=&quot;Email&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;danh-b&quot;&gt;Danh bạ&lt;/h3&gt;
+&lt;h3 id=&quot;danh-bạ&quot;&gt;Danh bạ&lt;/h3&gt;
 
 &lt;p&gt;Chức năng quản lý danh sách các nhóm email được tạo bởi hệ thống, cá nhân người dùng. Mục đích để sử dụng cho tính năng email.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/posts/seedcom/contact.png&quot; alt=&quot;Contact&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;h-s-nhn-vin&quot;&gt;Hồ sơ nhân viên&lt;/h3&gt;
+&lt;h3 id=&quot;hồ-sơ-nhân-viên&quot;&gt;Hồ sơ nhân viên&lt;/h3&gt;
 
 &lt;p&gt;Mỗi nhân viên trong hệ thống đều có 1 trang hồ sơ riêng . Với 3 chế độ xem là: Dành cho đồng nghiệp, dành cho người quản lý, và cá nhân. Mỗi chế độ xem sẽ hạn chế thông tin hiển thị.&lt;/p&gt;
 
@@ -54,7 +99,7 @@ Bao gồm tích hợp các tính năng chính:
 &lt;img src=&quot;/assets/img/posts/seedcom/User-profile-3.png&quot; alt=&quot;User-Profile&quot; /&gt;
 &lt;img src=&quot;/assets/img/posts/seedcom/User-profile-4.png&quot; alt=&quot;User-Profile&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;phiu-ph-duyt&quot;&gt;Phiếu phê duyệt&lt;/h3&gt;
+&lt;h3 id=&quot;phiếu-phê-duyệt&quot;&gt;Phiếu phê duyệt&lt;/h3&gt;
 
 &lt;p&gt;Chức năng này mục đích thay thế cho các văn bản vận hành nội bộ như phiếu đề xuất mua hàng, xin nghỉ phép, tạm ứng, …&lt;br /&gt;
 Phòng ban và nhân viên có quyền hạn sẽ định nghĩa các loại mẫu phiếu với tùy mục đích sử dụng, bao gồm các loại field dữ liệu khác nhau, và các vòng xét duyệt phiếu.&lt;br /&gt;
@@ -62,13 +107,13 @@ Nhân viên khi có nhu cầu sẽ lên tạo phiếu mới theo các mẫu đã
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/posts/seedcom/eform.png&quot; alt=&quot;eform&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;point-of-sale&quot;&gt;2. Point Of Sale&lt;/h2&gt;
+&lt;h2 id=&quot;2-point-of-sale&quot;&gt;2. Point Of Sale&lt;/h2&gt;
 
 &lt;p&gt;Point Of Sale, chức năng bán hàng dành cho các cửa hàng  hệ thống. Module này kết nối với Hồ sơ khách hàng trong hệ thống CRM để hỗ trợ thông tin cho đội ngũ bán hàng , mang lại một trải nghiệm mua hàng ở các Touch Point.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/posts/seedcom/POS-1.png&quot; alt=&quot;pos&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;tm-kim&quot;&gt;3. Tìm kiếm&lt;/h2&gt;
+&lt;h2 id=&quot;3-tìm-kiếm&quot;&gt;3. Tìm kiếm&lt;/h2&gt;
 
 &lt;p&gt;Tìm kiếm thông tin trong 3 nhóm tính năng: bản tin, nhân viên, đơn hàng.&lt;/p&gt;
 
@@ -97,17 +142,17 @@ Nhân viên khi có nhu cầu sẽ lên tạo phiếu mới theo các mẫu đã
 
 &lt;p&gt;Vai trò tôi trong dự án này là UX/UI Designer thiết kế lại giao diện website trên desktop cũng như mobile. Tôi trực tiếp làm việc với team Marketing, team lập trình, team quản trị website . . .   để thiết kế wireframe và sau khi đã thống nhất sẽ tiến hành thiết kế UI.&lt;/p&gt;
 
-&lt;h1 id=&quot;phin-bn-c&quot;&gt;Phiên bản cũ&lt;/h1&gt;
+&lt;h1 id=&quot;phiên-bản-cũ&quot;&gt;Phiên bản cũ&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/posts/cellphones/old-version-mockup.jpg&quot; alt=&quot;Giao diện cũ&quot; /&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;giao-din-mi-trn-desktop&quot;&gt;Giao diện mới trên Desktop&lt;/h1&gt;
+&lt;h1 id=&quot;giao-diện-mới-trên-desktop&quot;&gt;Giao diện mới trên Desktop&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/posts/cellphones/new-design-desktop-mockup.jpg&quot; alt=&quot;Giao mới trên Desktop&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Prototype: &lt;a href=&quot;https://marvelapp.com/353e08f&quot;&gt;Desktop&lt;/a&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;trn-mobile&quot;&gt;Trên Mobile&lt;/h1&gt;
+&lt;h1 id=&quot;trên-mobile&quot;&gt;Trên Mobile&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/posts/cellphones/new-design-mobile-mockup.jpg&quot; alt=&quot;Giao mới trên Mobile&quot; /&gt;&lt;/p&gt;
 

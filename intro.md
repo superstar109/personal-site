@@ -5,5 +5,5 @@ permalink: /intro/
 ---
 
 
-A digital product designer, enthuse about learning new stuffs then apply into solving actual problems.
-Moreover, i'm also running a flatform product for buying and selling crafts, handmade stuffs.
+A digital product designer, enthuse about learning new stuffs in tech and business fields then apply into solving actual problems.  
+Cofounder of Orange Concept, a digital studio that specializing in mobile and web design and development, branding and package.
